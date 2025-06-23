@@ -45,7 +45,7 @@ Integrate OnlinePBX with AmoCRM to track calls, record conversations, and automa
 ### 🖼 Preview
 
 Call log and OnlinePBX widget panel inside an AmoCRM lead card  
-![Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK7xkifrm3Wrk4_YcKKVRvoP0cna-K7ql1Og&s)  
+![Screenshot](https://hamtim.ru/wp-content/uploads/2017/11/Rd_vg1OOn7A.jpg)  
 *Your phone system, fully integrated with your sales funnel*
 
 ---
